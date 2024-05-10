@@ -2,9 +2,7 @@
 
 # WEB IDE 프로젝트 🖥️
 
-![대표 사진](사진)
-
-배포 URL : https://woowabirdieside.com
+배포 URL : https://woowabirdieside.com (비용문제로 인해 사이트는 내린 상태입니다.)
 <br>
 백엔드 Repository : https://github.com/Woowa-Birdies/WebIDE_Backend
 <br>
