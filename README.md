@@ -44,7 +44,7 @@
 
 ## 인프라 설계도 📜
 
-![인프라 설계도](<img width="782" alt="image" src="https://github.com/HyemCha/WebIDE_Backend/assets/89293165/570c475c-655a-42f6-95b7-7beb2239987b">)
+![인프라 설계도](https://github.com/HyemCha/WebIDE_Backend/assets/89293165/570c475c-655a-42f6-95b7-7beb2239987b)
 
 - Github Actions를 이용해 CI/CD 구축
 - FE : S3 버킷에 빌드된 파일을 업로드하여 배포
